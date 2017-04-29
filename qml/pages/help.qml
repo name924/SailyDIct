@@ -25,7 +25,7 @@ Page {
                     Qt.openUrlExternally(link);
                 }
                 function getText() {
-                    var msg = "SailyDict does not contain pre installed dictionariesю"
+                    var msg = "SailyDict does not contain pre-installed dictionaries"
                     + " (the package would just grow too much, and not all users want all"
                     + " dictionaries installed)."
                     + "<br>"
