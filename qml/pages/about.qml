@@ -66,7 +66,7 @@ Page {
                     + "<br>"
                     + "<br>SailyDict is a fork of Sidudict which is an open source dictionary program based on QStarDict."
                     + "<br>"
-                    + "<br>SailyDict began as an attempt to solve the problem in Sidudict where the dictionay is indexed each time the application is started, thereby increasing startup latency."
+                    + "<br>SailyDict began as an attempt to solve the problem in Sidudict where the dictionary is indexed each time the application is started, thereby increasing startup latency."
                     + "<br>"
                     + "<br>We reduced the latency by using an embedded SQLite database."
                     + "<br>"
